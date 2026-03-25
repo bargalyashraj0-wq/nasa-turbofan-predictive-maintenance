@@ -1,0 +1,25 @@
+Column,Keyword,Technical Name
+setting1,alt,Altitude
+setting2,mach,Mach Number
+setting3,tra,Throttle Resolver Angle
+sensor1,T2,Total temperature at fan inlet
+sensor2,T24,Total temperature at LPC outlet
+sensor3,T30,Total temperature at HPC outlet
+sensor4,T50,Total temperature at LPT outlet
+sensor5,P2,Pressure at fan inlet
+sensor6,P15,Total pressure in bypass-duct
+sensor7,P30,Total pressure at HPC outlet
+sensor8,Nf,Physical fan speed
+sensor9,Nc,Physical core speed
+sensor10,epr,Engine pressure ratio
+sensor11,Ps30,Static pressure at HPC outlet
+sensor12,phi,Ratio of fuel flow to Ps30
+sensor13,NRf,Corrected fan speed
+sensor14,NRc,Corrected core speed
+sensor15,BPR,Bypass Ratio
+sensor16,farB,Burner fuel-air ratio
+sensor17,ht,Bleed Enthalpy
+sensor18,Nf_dmd,Demanded fan speed
+sensor19,PCNf_dmd,Demanded corrected fan speed
+sensor20,W31,HPT coolant bleed
+sensor21,W32,LPT coolant bleed
