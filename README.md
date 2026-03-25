@@ -1,5 +1,5 @@
-# nasa-turbofan-predictive-maintenance
-Predictive maintenance project using NASA turbofan engine dataset to estimate Remaining Useful Life (RUL) with data analysis, feature engineering, and visualization.
+# NASA-turbofan-predictive-maintenance
+Predictive maintenance project using NASA turbofan engine dataset to estimate Remaining Useful Life (RUL) with data analysis(SQL), feature engineering, and visualization.
 
 ## Project Overview
 
@@ -30,7 +30,7 @@ The dataset contains multiple engine units with time-series sensor readings coll
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Matplotlib 
 - DuckDB (for SQL-based analysis)
 
 ---
